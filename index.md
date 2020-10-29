@@ -1,3 +1,7 @@
+---
+layout: about 
+---
+
 # About Me
 
 * Bachelor of Science - Computer Engineering, Information & Statistics
