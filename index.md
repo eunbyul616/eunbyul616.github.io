@@ -3,7 +3,7 @@ layout: about
 ---
 
 # About Me
-##Education
+## Education
 * Bachelor of Science - Computer Engineering, Information & Statistics
 <br/>
 Yonsei University, Seoul, Republic of Korea
